@@ -1,5 +1,5 @@
 # Cursos
-Pasta para visualização cursos realizados
+Pasta para visualização de cursos realizados
 
 ## Tecnologia
 - Fundamentos de TI | Google [link](https://www.coursera.org/account/accomplishments/certificate/76YLXTFCOMYV);
