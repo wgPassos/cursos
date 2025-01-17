@@ -4,7 +4,7 @@ Pasta para visualização cursos realizados
 ## Tecnologia
 - Fundamentos de TI | Google [link](https://www.coursera.org/account/accomplishments/certificate/76YLXTFCOMYV);
 - Analista de Suporte Técnico | Zenvia Movidesk [link](https://zenvialearning.konviva.com.br/lms/#/aprendizagem/trilha/7);
-- Curso de Endereçamento IPv4 | Curso em Vídeo [link](https://youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&si=tsdQtG2RQrMGaueA));
+- Curso de Endereçamento IPv4 | Curso em Vídeo [link](https://youtube.com/playlist?list=PLAp37wMSBouCU49LV0qFbItufigjYk-sp&si=tsdQtG2RQrMGaueA);
 - Lógica de Programação | Curso em Vídeo [link](https://youtu.be/8mei6uVttho?si=70lHM64n1CP9HZkW); 
 - Lógica de Programação Essencial | Digital Innovation One [link](https://hermes.dio.me/certificates/C9AD4A75.pdf); 
 - SQL Server: Boas práticas em bancos relacionais | Digital Innovation One [link](https://hermes.dio.me/certificates/A7D4C0A0.pdf); 
