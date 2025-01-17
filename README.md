@@ -9,7 +9,7 @@ Pasta para visualização cursos realizados
 - Microsoft Excel 2013 - Básico | Fundação Bradesco; 
 - Introdução à Informática | Fundação Bradesco.
 
-  ## Relacionamento com Cliente
+## Relacionamento com Cliente
 - Comunicação e Relacionamento com o Cliente | Sebrae; 
 - Customer Success - Como Conquistar e Manter Clientes | Sebrae; 
 - Atendimento ao Cliente | Sebrae. 
